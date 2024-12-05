@@ -1,0 +1,1 @@
+This project creates a simple ecommerce api, using DjangoRestFramework.
